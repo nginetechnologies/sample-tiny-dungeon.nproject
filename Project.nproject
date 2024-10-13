@@ -1,7 +1,7 @@
 {
     "name": "Tiny Dungeon",
     "guid": "d5178f9a-cec7-487a-a6fb-fcd1361af05c",
-    "database_guid": "ce8955d7-f814-d3ee-7ad6-ebd69b6a4166",
+    "database_guid": "ae28c067-a9f9-1dba-284c-dd40e3ace242",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,7 +12,7 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "0ab76a79-0a14-d597-12c5-e02b23cf7621",
+    "thumbnail_guid": "1a9084d1-e224-9f37-ec99-38f965af32be",
     "default_scene": "b2e564c1-1fdd-4861-b4ac-042d274a23dd",
     "tags": [ "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9" ],
     "source": "Project.nproject",

@@ -1,33 +1,33 @@
 {
-    "0ab76a79-0a14-d597-12c5-e02b23cf7621": {
+    "1a9084d1-e224-9f37-ec99-38f965af32be": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Tiny_Dungeon_Thumb.tex.nasset"
     },
-    "4221330c-7e5a-8d6e-6179-f143f9db258f": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Top Down.scene.nasset",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
-        ]
+    "ae28c067-a9f9-1dba-284c-dd40e3ace242": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
     },
     "b2e564c1-1fdd-4861-b4ac-042d274a23dd": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Tiny Dungeon.scene.nasset"
+        "path": "Assets/Tiny Dungeon.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[13.656003952026368,-3.7772469520568849,13.844884872436524],\"rotation\":[-40.23350143432617,0.0000010028967381003895,36.48224639892578]}"
+        }
     },
-    "ce8955d7-f814-d3ee-7ad6-ebd69b6a4166": {
-        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
-        "path": "Assets.nassetdb"
+    "d000084f-b923-f77e-6b0d-66166038c5ba": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/T_Tiny_Dungeon_D.tex.nasset"
     },
     "d5178f9a-cec7-487a-a6fb-fcd1361af05c": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Tiny Dungeon",
-        "thumbnail": "0ab76a79-0a14-d597-12c5-e02b23cf7621",
+        "thumbnail": "1a9084d1-e224-9f37-ec99-38f965af32be",
         "tags": [
             "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
         ]
     },
-    "guid": "ce8955d7-f814-d3ee-7ad6-ebd69b6a4166"
+    "guid": "ae28c067-a9f9-1dba-284c-dd40e3ace242"
 }
