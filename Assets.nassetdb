@@ -1,8 +1,4 @@
 {
-    "1a9084d1-e224-9f37-ec99-38f965af32be": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Tiny_Dungeon_Thumb.tex.nasset"
-    },
     "ae28c067-a9f9-1dba-284c-dd40e3ace242": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
@@ -16,10 +12,6 @@
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[13.656003952026368,-3.7772469520568849,13.844884872436524],\"rotation\":[-40.23350143432617,0.0000010028967381003895,36.48224639892578]}"
         }
     },
-    "d000084f-b923-f77e-6b0d-66166038c5ba": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Objects/T_Tiny_Dungeon_D.tex.nasset"
-    },
     "d5178f9a-cec7-487a-a6fb-fcd1361af05c": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
@@ -29,5 +21,9 @@
             "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
         ]
     },
-    "guid": "ae28c067-a9f9-1dba-284c-dd40e3ace242"
+    "guid": "ae28c067-a9f9-1dba-284c-dd40e3ace242",
+    "imported_assets": [
+        "1a9084d1-e224-9f37-ec99-38f965af32be",
+        "d000084f-b923-f77e-6b0d-66166038c5ba"
+    ]
 }
