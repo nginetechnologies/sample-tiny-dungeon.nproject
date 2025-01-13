@@ -91,6 +91,31 @@
             ]
         },
         {
+            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    13.5,
+                    -7.0,
+                    2.5
+                ]
+            },
+            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
+                "asset": "6f6a6971-71e7-4f2b-b87e-a68c6ba6aecb"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
+                    ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                }
+            ]
+        },
+        {
             "typeGuid": "37000929-8ed6-4f15-a9ec-4f7d15302f02",
             "instanceGuid": "5454c1e4-3cbf-8a26-a663-5bca1e8c5358",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
@@ -140,8 +165,8 @@
             },
             "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
                 "radius": 40,
-                "irradiance": "c52a4ea4-88f0-a5f9-8451-0a364b4ca95d",
-                "prefiltered": "bae576cb-c91e-f834-9e73-f00694f5fb74"
+                "irradiance": "019460ab-912a-74b6-0f8d-9c60745e6137",
+                "prefiltered": "019460ab-916b-72ab-0305-ca25fe51e981"
             },
             "data_components": [
                 {
@@ -181,7 +206,7 @@
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                 "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
-                "material_instance": "732bb934-2b07-4fbd-83ee-7f1a0163f9c3"
+                "material_instance": "8bf090b2-e13f-4670-8b53-c2c92f592b69"
             },
             "data_components": [
                 {
